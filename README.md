@@ -11,3 +11,8 @@ initial look
 how two use:
 Remove the current link on input box and paste the link of image you want to download
 Click the download button. enjoy !! 😉
+
+
+https://github.com/anasmuhd01/downloader/assets/97117799/f58460e1-6bd1-44c5-9cd5-84de00139289
+
+
